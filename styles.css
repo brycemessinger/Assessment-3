@@ -36,3 +36,26 @@ input {
 img {
 	max-width: 300px;
 }
+
+#interests {
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+
+#goalsField {
+	border-width: 2px;
+	border-color: black;
+}
+
+.color{
+	background-color: yellow;
+	font-size: 20px;
+}
+.place{
+	background-color: yellow;
+	font-size: 20px;
+}
+.ritual{
+	background-color: yellow;
+	font-size: 20px;
+}
